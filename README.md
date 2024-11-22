@@ -2,6 +2,7 @@
 
 
 Analysis of Neural Network Performance for Predicting Fundraising Success
+
 Introduction
 The goal of this analysis is to predict the success of fundraising campaigns for nonprofit organizations based on their characteristics. By leveraging a neural network, we aim to build a classification model that determines whether a campaign is likely to achieve its target based on features such as organization type, application details, income amount, and more.
 
